@@ -10,7 +10,11 @@ public class Helloworld4 {
 		System.out.println("hi Charlie");
 
 		System.out.println("hi Denise");
+<<<<<<< HEAD
 		System.out.println("hi branch1");
+=======
+		System.out.println("New-feature");
+>>>>>>> new-feature
 
 		// TODO Auto-generated method stub
 
